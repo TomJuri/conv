@@ -1,11 +1,11 @@
 # conv
-
 A versatile file conversion utility that supports:
 - Image conversions (using ImageMagick)
 - Video conversions (using FFmpeg)
 - Document conversions (using Pandoc)
 
 ## Usage
+```
 conv [options]
 
 Options:
@@ -15,3 +15,4 @@ Options:
 -f            Force overwrite existing files
 -v            Verbose output
 -h            Show help message
+```
